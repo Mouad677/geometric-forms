@@ -52,7 +52,13 @@ pip install matplotlib numpy
  - Data visualization practice
 
 ## Example Output
-![Example Plot](images/example_plot.png)
+![Forms](src/figures.png)
+![Example Plot](src/barplot.png)
+![Example Plot](src/barplot2.png)
+![Forms](src/forms.png)
+![Example Plot](src/plot1.png)
+![Example Plot](src/plot2.png)
+
 
 
 
