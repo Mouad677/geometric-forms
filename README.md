@@ -3,7 +3,7 @@
 This project is a Jupyter Notebook that demonstrates how to visualize and analyze basic geometric shapes using Python. It's ideal for students, educators, and enthusiasts who want to understand geometry through code and visualization.
 
 ## Features
-
+ 
 - Plotting geometric shapes using `matplotlib`
 - Use of `numpy` for precise point generation and transformation
 - Visual demonstration of:
@@ -33,3 +33,28 @@ Make sure you have the following installed:
 You can install the dependencies using pip:
 ```bash
 pip install matplotlib numpy
+```
+
+## **Run the Notebook**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/geometric_forms.git
+   cd geometric_forms
+   ```
+
+2. **Start the notebook:**
+   ```bash
+   jupyter notebook geometric_forms.ipynb
+   ```
+## Use Cases
+ - Geometry teaching and learning
+ - Basic computer graphics demonstrations
+ - Data visualization practice
+
+## Example Output
+![Example Plot](images/example_plot.png)
+
+
+
+
+
